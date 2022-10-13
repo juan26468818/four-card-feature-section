@@ -16,6 +16,7 @@ html{
 }
 body{
     padding: 1rem;
+    background-color: var(--Very-Light-Gray);
 }
 h1, .main_description{
     text-align: center;
@@ -29,7 +30,7 @@ span{
 }
 .main_description{
     padding: 1rem;
-    color:var(--Grayish-Blue)
+    color:var(--Grayish-Blue);
 }
 .cards-container{
     display: flex;
@@ -62,6 +63,7 @@ span{
 }
 h2{
     font-size: 1.2rem;
+    color: var(--Very-Dark-Blue);
 }
 .card-description{
     color: var(--Grayish-Blue);
